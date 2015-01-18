@@ -1,0 +1,62 @@
+html {
+    background-color: #F5F5F5;	
+}
+
+img {
+    float: left;
+    display: inline;
+    padding: 0px 5px 5px 5px;
+}
+
+body {
+    font-family : "Courier New", "Courier", "monospace";
+}
+
+.delete {
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    padding: 5px;
+    font-size: 20px;
+}
+
+#content {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+   font-size: 58px;
+}
+
+a {
+    text-decoration: none;
+}
+
+div {
+    overflow: hidden;
+}
+
+.item {
+   padding: 5px;
+   margin: 10px;
+   border: 2px solid #5fa326;
+   border-radius: 5px;
+   background-color: #FFF;
+   position: relative;
+}
+
+.title {
+    display: block;
+    font-size: 24px;
+}
+
+.title a {
+    font-size: 128 px;
+}
+
+.comment a {
+    color: #888;
+    font-style:    
+}
