@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Block",
+  "name": "Reddit Consumer",
   "description": "AD",
   "version": "1.0",
   "options_page" : "options.html",
@@ -16,7 +16,7 @@
   } ],
   "browser_action": {
     "default_icon" : "unibrow.png",
-    "default_title": "Anthony Davis"
+    "default_title": "Reddit Consumer"
   },
   "permissions": [
     "activeTab",
